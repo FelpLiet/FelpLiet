@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FelpLiet
+- 👀 I’m interested in softwares and hardwares
+- 🌱 I’m currently learning to use git
+- '-' I’m looking to collaborate on many projects
+- 📫 How to reach me: felipe.leite23@gmail.com
