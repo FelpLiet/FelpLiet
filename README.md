@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Nogueira</h1>
 <h3 align="center">I am an enthusiastic student of web development, game development and IoT.</h3>
 <br>
-<h4 align="center"> 🔭 I’m currently working on **Medusa's eye** as front-end </h4>
+<h4 align="center"> 🔭 I’m currently working on Medusa's eye as front-end </h4>
 <br>
 <h3 align="center">Some languages ​​and tools I've used lately:</h3>
 <p align="center"> 
