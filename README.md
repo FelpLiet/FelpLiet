@@ -31,7 +31,7 @@ Here are some tools and technologies I’ve been working with lately:
 
 ## 📈 GitHub Stats
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felpliet&show_icons=true&icon_color=7E808F&bg_color=DECDC3&border_color=D3BAB1&title_color=7D7F8E&text_color=252625)
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felpliet&show_icons=true&icon_color=784e4a&bg_color=DECDC3&border_color=D3BAB1&title_color=784e4a&text_color=252625)
 
 
 ---
